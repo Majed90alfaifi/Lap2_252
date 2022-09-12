@@ -15,6 +15,3 @@
 
 4-change the "log" attribute in Order class to be equal     >>.   = Lpogger.getInstance();
 ![image](https://user-images.githubusercontent.com/99211143/189753309-329cb031-6747-410a-ab61-d796d10983c6.png)
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>END!<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
